@@ -10,6 +10,7 @@ The game is simple:
 - Every time you press the button your chances to lose all your points increase by 1% (it goes from 0% to 1%, 2%, 3% etc. after each successful click).
 
 Taken from https://elendow.itch.io/the-button
+Nice youtube video: https://www.youtube.com/shorts/DTG5HIxR9H8
 
 This project is simple: we run billion of tries in parallel to beat the WR.
 
