@@ -7,7 +7,7 @@ A stupid script to get the world record on a stupid game.
 
 The game is simple:
 - Every time you press the button you get 1 point.
-- Every time you press the button your chances to lose all your points increases by 1% (it goes from 0% to 1%, 2%, 3% etc. after each successful click).
+- Every time you press the button your chances to lose all your points increase by 1% (it goes from 0% to 1%, 2%, 3% etc. after each successful click).
 
 Taken from https://elendow.itch.io/the-button
 
