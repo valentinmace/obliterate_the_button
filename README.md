@@ -19,6 +19,11 @@ I achieved 65 after ~ 1 trillion (one thousand billion) tries. I ran the code on
 
 I also tried on a TPU V3 but it was slower.
 
+Here is an illustration of the distribution of scores over millions of tries:
+<p align="center">
+  <img src="img/distribution.jpg">
+</p>
+
 ## Usage
 
 You'll need [jax](https://github.com/google/jax) and ideally the GPU enabled version.
