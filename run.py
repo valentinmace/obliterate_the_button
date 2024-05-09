@@ -22,11 +22,12 @@ def closest_multiple(A, B):
 
 # Runs starts here
 
-seed = 0
+# Parameters, play with them and test your hardware limits
 batch_size = 100000    # number of games played at once
 print_every = 1000000    # how many games we want to play before printing again ?
 print_every_adapted = closest_multiple(print_every, batch_size)     # round to the closest multiple so there's no issue
 
+seed = 0
 best_so_far = 0
 start = 0.0
 with jax.default_device(which_device):
