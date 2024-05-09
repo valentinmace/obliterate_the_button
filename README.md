@@ -21,7 +21,7 @@ I also tried on a TPU V3 but it was slower.
 
 ## Usage
 
-You'll need [jax](https://github.com/google/jax) and ideally the GPU enable version.
+You'll need [jax](https://github.com/google/jax) and ideally the GPU enabled version.
 
 You can modify the parameters of the script, as the number of tries that are done in parallel at each iteration or the printing frequency.
 
