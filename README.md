@@ -15,7 +15,7 @@ This project is simple: we run billion of tries in parallel to beat the WR.
 
 ## Current World record
 
-I achieved 65 after ~ 1 trillion (one thousand billion) tries. I ran the code on my 2080 ti, doing ~1 billion tries every 5 seconds (~12 billion tries per minute).
+<b>I achieved 65</b> after ~ 1 trillion (one thousand billion) tries. I ran the code on my 2080 ti, doing ~1 billion tries every 5 seconds (~12 billion tries per minute).
 
 I also tried on a TPU V3 but it was slower.
 
