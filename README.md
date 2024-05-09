@@ -21,7 +21,7 @@ I also tried on a TPU V3 but it was slower.
 
 Here is an illustration of the distribution of scores over millions of tries:
 <p align="center">
-  <img src="img/distribution.jpg">
+  <img src="img/distribution_of_scores.jpg">
 </p>
 
 ## Usage
